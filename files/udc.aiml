@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml>
   <category>
-    <pattern>*</pattern>
+    <pattern>😂*</pattern>
     <template>I have no answer for that.</template>
   </category>
+
+<category><pattern>😇</pattern><template><srai>😂*</srai></template></category>
+
+<category>
+    <pattern>who are you 
+</pattern>
+    <template>I am Farfal</template>
+</category>
+<category>
+    <pattern>Click node to edit pattern</pattern>
+    <template>Click node to edit template</template>
+</category>
 <category>
     <pattern></pattern>
     <template></template>
